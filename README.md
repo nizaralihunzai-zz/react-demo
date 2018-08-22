@@ -23,12 +23,6 @@
   <dt>Industry-standard i18n internationalization support</dt>
   <dd>Scalable apps need to support multiple languages, easily add and support multiple languages with `react-intl`.</dd>
 
-  <dt>Offline-first</dt>
-  <dd>The next frontier in performant web apps: availability without a network connection from the instant your users load the app.</dd>
-
-  <dt>SEO</dt>
-  <dd>We support SEO (document head tags management) for search engines that support indexing of JavaScript content. (eg. Google)</dd>
-</dl>
 
 But wait... there's more!
 
@@ -45,8 +39,8 @@ But wait... there's more!
 
 ## Quick start
 
-1. Clone this repo using `git clone --depth=1 https://github.com/react-boilerplate/react-boilerplate.git`
-2. Move to the appropriate directory: `cd react-boilerplate`.<br />
+1. Clone this repo using `git clone https://github.com/nizaralihunzai/react-demo.git`
+2. Move to the appropriate directory: `cd react-demo`.<br />
 3. Run `npm run setup` in order to install dependencies and clean the git repo.<br />
    *We auto-detect `yarn` for installing packages by default, if you wish to force `npm` usage do: `USE_YARN=false npm run setup`*<br />
    *At this point you can run `npm start` to see the example app at `http://localhost:3000`.*

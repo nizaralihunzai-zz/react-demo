@@ -1,0 +1,11 @@
+.container-homepage{
+  background: white !important;
+  border: 1px solid #ddd;
+  /* height: 100vh; */
+  padding: 30px;
+}
+
+hr{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
